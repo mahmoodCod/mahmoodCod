@@ -1,21 +1,13 @@
-<h1 align="center">Hi 👋, I'm Backend Developer | Node.js & NestJS</h1>
-<h3 align="center">Backend Developer focused on building scalable REST APIs and deploying production-ready applications</h3>
+# Hi 👋, I'm Mahmood — Backend Developer | Node.js & NestJS
 
-- 🔭 I’m currently working on [project-backend-coffee](www.aikasb.com)
+### Backend Developer focused on building scalable REST APIs and deploying production-ready applications
 
-- 🌱 I’m currently learning **System design, scalable backend architecture, and cloud-ready deployment practices**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mahmoodCod](https://github.com/mahmoodCod)
-
-- 📝 I regularly write articles on [Backend development and scalable API architecture](Backend development and scalable API architecture)
-
-- 💬 Ask me about **Backend development with Node.js & NestJS, REST API design, and database optimization**
-
-- 📫 How to reach me **📧 Email: nmashoomy10@gmail.com 💼 LinkedIn:www.linkedin.com/in/mahmood-zargari-80920937a**
-
-- 📄 Know about my experiences [https://github.com/mahmoodCod](https://github.com/mahmoodCod)
-
-- ⚡ Fun fact **I enjoy turning complex backend problems into clean and efficient solutions.**
+- 🔭 I'm currently working on **coffee-marketplace-api** — a marketplace backend with Swagger docs and Docker support
+- 🌱 I'm currently learning **system design, scalable backend architecture, and cloud-ready deployment practices**
+- 👨‍💻 All of my projects are available at https://github.com/mahmoodCod
+- 💬 Ask me about **backend development with Node.js & NestJS, REST API design, and database optimization**
+- 📫 Reach me at: **nmashoomy10@gmail.com** | [LinkedIn](https://linkedin.com/in/mahmood-zargari-80920937a)
+- ⚡ Fun fact: **I enjoy turning complex backend problems into clean and efficient solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
